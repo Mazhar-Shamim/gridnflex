@@ -1,0 +1,8 @@
+.prelude{
+	text-align: center;
+}
+.box{
+	min-height: 100px;
+	background-color: red; 
+	margin-bottom: 5px;
+}
